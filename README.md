@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Vulnerability Management </b>
- 
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 - <b>File Integrity Monitor </b>
-  
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 <h2> Certifications </h2>
 
