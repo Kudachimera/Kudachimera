@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Vulnerability Management </b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- <b>File Integrity Monitor </b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-
+- <b> Governance,Risk,Compliance </b>
+  - [Designing an information Security Governance Policy in accordance to NIST 800 -53](https://github.com/joshmadakor1/AD_PS)
+  - [ Cybersecurity Compliance Audit work according to NIST Framework ](https://github.com/joshmadakor1/AD_PS)
+  - [ Risk Management lab](https://github.com/joshmadakor1/AD_PS)
+  - [ Security Awareness Training ](https://github.com/joshmadakor1/AD_PS)
+- <b>Cloud Security </b>
+  - [The Azure Cloud Detection lab)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [The Azure SIEM (Sentinel) lab ](https://github.com/joshmadakor1/Jwipe.PowerShell)
 <h2> Certifications </h2>
 
 - [Certified Information Systems Auditor (CISA)](https://www.credly.com/badges/8ee36167-d1c1-4685-b866-fe523f6d5166?source=linked_in_profile)
