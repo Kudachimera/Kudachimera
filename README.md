@@ -3,13 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Governance,Risk,Compliance </b>
-  - [Designing an information Security Governance Policy in accordance to NIST 800 -53](https://github.com/joshmadakor1/AD_PS)
-  - [ Cybersecurity Compliance Audit work according to NIST Framework ](https://github.com/joshmadakor1/AD_PS)
-  - [ Risk Management lab](https://github.com/joshmadakor1/AD_PS)
-  - [ Security Awareness Training ](https://github.com/joshmadakor1/AD_PS)
+  - [Designing an information Security Governance Policy in accordance to NIST 800 -53](https://github.com/Kudachimera/Information-Security-Policy-Design)
+  - [ Cybersecurity Compliance Audit work according to NIST Framework ]()
+  - [ Risk Management lab]()
+  - [ Security Awareness Training ]()
 - <b>Cloud Security </b>
-  - [The Azure Cloud Detection lab)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [The Azure SIEM (Sentinel) lab ](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [The Azure Cloud Detection lab)]()
+  - [The Azure SIEM (Sentinel) lab ]()
 <h2> Certifications </h2>
 
 - [Certified Information Systems Auditor (CISA)](https://www.credly.com/badges/8ee36167-d1c1-4685-b866-fe523f6d5166?source=linked_in_profile)
