@@ -6,11 +6,11 @@
   - [Designing an information Security Governance Policy in accordance to NIST 800 -53](https://github.com/Kudachimera/Information-Security-Policy-Design)
    - [ Security Awareness Training on Social Engineering ](https://github.com/Kudachimera/Security-awareness-training-on-Social-Engineering)
   - [ Cybersecurity Compliance Audit work according to NIST Framework ]()
-  - [ Risk Management lab]()
+  - [ IT Risk Management & Threat Modeling lab]()
 
 - <b>Cloud Security </b>
   - [The Azure Cloud Detection lab)]()
-  - [The Azure SIEM (Sentinel) lab ]()
+  
 <h2> Certifications </h2>
 
 - [Certified Information Systems Auditor (CISA)](https://www.credly.com/badges/8ee36167-d1c1-4685-b866-fe523f6d5166?source=linked_in_profile)
