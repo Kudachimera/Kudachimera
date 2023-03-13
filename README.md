@@ -9,7 +9,7 @@
   - [ IT Risk Management & Threat Modeling lab]()
 
 - <b>Cloud Security </b>
-  - [The Azure Cloud Detection lab)]()
+  - [The Azure Cloud Detection lab)](https://github.com/Kudachimera/Azure-Cloud-Detection-lab)
   
 <h2> Certifications </h2>
 
