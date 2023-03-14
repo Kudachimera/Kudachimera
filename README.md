@@ -5,7 +5,7 @@
 - <b> Governance,Risk,Compliance </b>
   - [Designing an information Security Governance Policy in accordance to NIST 800 -53](https://github.com/Kudachimera/Information-Security-Policy-Design)
    - [ Security Awareness Training on Social Engineering ](https://github.com/Kudachimera/Security-awareness-training-on-Social-Engineering)
-  - [ Cybersecurity Compliance Audit work according to NIST Framework ]()
+  - [ Cybersecurity Compliance Audit work according to NIST Framework ](https://github.com/Kudachimera/Cybersecurity-Compliance-Audit-work-based-on-NIST-Framework)
   - [ IT Risk Management & Threat Modeling lab](https://github.com/Kudachimera/Risk-management-lab)
 
 - <b>Cloud Security </b>
