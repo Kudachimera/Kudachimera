@@ -7,6 +7,10 @@
    - [ Security Awareness Training on Social Engineering ](https://github.com/Kudachimera/Security-awareness-training-on-Social-Engineering)
   - [ Cybersecurity Compliance Audit work according to NIST Framework ](https://github.com/Kudachimera/Cybersecurity-Compliance-Audit-work-based-on-NIST-Framework)
   - [ IT Risk Management & Threat Modeling lab](https://github.com/Kudachimera/Risk-management-lab)
+  
+ - <b>Information Security </b>
+  - [Vulnerability Management]() 
+  
 
 - <b>Cloud Security </b>
   - [The Azure Cloud Detection lab](https://github.com/Kudachimera/Azure-Cloud-Detection-lab)
