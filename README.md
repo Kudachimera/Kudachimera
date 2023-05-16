@@ -9,9 +9,8 @@
   - [ IT Risk Management & Threat Modeling lab](https://github.com/Kudachimera/Risk-management-lab)
   
  - <b>Information Security </b>
-  - [Vulnerability Management]() 
+    - [Vulnerability Management]() 
   
-
 - <b>Cloud Security </b>
   - [The Azure Cloud Detection lab](https://github.com/Kudachimera/Azure-Cloud-Detection-lab)
   
