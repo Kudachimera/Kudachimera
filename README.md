@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kuda! <br/>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 AI & Cybersecurity Projects:</h2>
 
 - <b> Governance,Risk,Compliance </b>
   - [Designing an information Security Governance Policy in accordance to NIST 800 -53](https://github.com/Kudachimera/Information-Security-Policy-Design)
@@ -8,8 +8,8 @@
   - [ Cybersecurity Compliance Audit work according to NIST Framework ](https://github.com/Kudachimera/Cybersecurity-Compliance-Audit-work-based-on-NIST-Framework)
   - [ IT Risk Management & Threat Modeling lab](https://github.com/Kudachimera/Risk-management-lab)
   
- - <b>Information Security </b>
-    - [Vulnerability Management](https://github.com/Kudachimera/Vulnerability-Management) 
+ - <b>Artificial Intelligence </b>
+    - [Designing an AI Governance Policy](https://github.com/Kudachimera/Vulnerability-Management) 
   
 - <b>Cloud Security </b>
   - [The Azure Cloud Detection lab](https://github.com/Kudachimera/Azure-Cloud-Detection-lab)
