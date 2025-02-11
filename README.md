@@ -9,7 +9,7 @@
   - [ IT Risk Management & Threat Modeling lab](https://github.com/Kudachimera/Risk-management-lab)
   
  - <b>Artificial Intelligence </b>
-    - [How to build a comprehensive Responsible AI Governance Framework](https://github.com/Kudachimera/Vulnerability-Management) 
+    - [How to design a Responsible AI Governance Framework](https://github.com/Kudachimera/Vulnerability-Management) 
   
 - <b>Cloud Security </b>
   - [The Azure Cloud Detection lab](https://github.com/Kudachimera/Azure-Cloud-Detection-lab)
