@@ -10,7 +10,7 @@
   
  - <b>Artificial Intelligence </b>
     - [How to design a Responsible AI Governance Framework](https://github.com/Kudachimera/Vulnerability-Management)
-    - [Designing a roboust AI Governance Policy](https://github.com/Kudachimera/Vulnerability-Management)
+    - [Designing a roboust AI Governance Policy](https://github.com/Kudachimera/Designing-a-robust-AI-Governance-Policy)
   
 - <b>Cloud Security </b>
   - [The Azure Cloud Detection lab](https://github.com/Kudachimera/Azure-Cloud-Detection-lab)
