@@ -2,15 +2,18 @@
 
 <h2>👨‍💻 AI & Cybersecurity Projects:</h2>
 
+ - <b>Artificial Intelligence </b>
+    - [How to design a Responsible AI Governance Framework](https://github.com/Kudachimera/Vulnerability-Management)
+    - [Designing a roboust AI Governance Policy](https://github.com/Kudachimera/Designing-a-robust-AI-Governance-Policy)
+
+
+
+
 - <b> Governance,Risk,Compliance </b>
   - [Designing an information Security Governance Policy in accordance to NIST 800 -53](https://github.com/Kudachimera/Information-Security-Policy-Design)
    - [ Security Awareness Training on Social Engineering ](https://github.com/Kudachimera/Security-awareness-training-on-Social-Engineering)
   - [ Cybersecurity Compliance Audit work according to NIST Framework ](https://github.com/Kudachimera/Cybersecurity-Compliance-Audit-work-based-on-NIST-Framework)
   - [ IT Risk Management & Threat Modeling lab](https://github.com/Kudachimera/Risk-management-lab)
-  
- - <b>Artificial Intelligence </b>
-    - [How to design a Responsible AI Governance Framework](https://github.com/Kudachimera/Vulnerability-Management)
-    - [Designing a roboust AI Governance Policy](https://github.com/Kudachimera/Designing-a-robust-AI-Governance-Policy)
   
 - <b>Cloud Security </b>
   - [The Azure Cloud Detection lab](https://github.com/Kudachimera/Azure-Cloud-Detection-lab)
