@@ -3,6 +3,10 @@
 <h2>👨‍💻 AI & Cybersecurity Projects:</h2>
 
  - <b>Artificial Intelligence </b>
+    - [AI Risk Scanner](https://github.com/Kudachimera/ai-risk-scanner)
+    - [AI Bias and Explainability Audit Tool](https://github.com/Kudachimera/clearpath-audit-tool)
+    - [AI Privacy Impact Assessment Checker](https://github.com/Kudachimera/privacy-impact-checker)
+    - [AI Driftwatcher-sentry](https://github.com/Kudachimera/driftwatcher-sentry)
     - [How to design a Responsible AI Governance Framework](https://github.com/Kudachimera/Vulnerability-Management)
     - [Designing a roboust AI Governance Policy](https://github.com/Kudachimera/Designing-a-robust-AI-Governance-Policy)
 
